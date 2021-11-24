@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### 💡 Current Interest 
 - Algorithm & Computational Thinking
 - Team project proceed with git
@@ -26,9 +25,15 @@ Here are some ideas to get you started:
 
 
 ### 💜 Career
-
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **Research activities** | 2021. 09 ~ ing | Java & Android Full-stack course | **Korea IT Academy** |
+| 🎓**Education** | 2015. 3 ~ 2022. 2 | Department of Psychology | **Keimyung University** |
+| **External activities** | 2019. 11 | Minister of Science and ICT Award at Contest | **Daegu City** |
 
 ### 🌀 Languages
-
+![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=JAVA&logoColor=white)
+![ANDROID](https://img.shields.io/badge/ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)
 
 ### 📬 Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:dkeka6608@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/)
