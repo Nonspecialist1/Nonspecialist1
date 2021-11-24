@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Saehyun, studying Java full-stack & Android 👋
 
 <!--
 **Nonspecialist1/Nonspecialist1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
