@@ -1,9 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNonspecialist1&count_bg=%2379C83D&title_bg=%23000000&icon=java.svg&icon_color=%23FFEB02&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 👋👋 I'm Saehyun, Java Full-stack & Android Mobile App Developer
-My major is psychology, but I've been studying computer science💻 since 2021, and I really into SW Developing !
-My most cofident language is Java, I'm keep studying and growing up🌳
-I want to be All-rounder Developer who make planning and developing SW📱
+### 👋👋 I'm Saehyun, Java & Android Developer
+
+  My major is psychology, but I've been studying computer science💻 since 2021, and I really into SW Developing !
+  My most cofident language is Java, I'm keep studying and growing up🌳
+  I want to be All-rounder Developer who make planning and developing SW📱
 
 <!--
 **Nonspecialist1/Nonspecialist1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,8 +32,8 @@ Here are some ideas to get you started:
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Research activities** | 2021. 09 ~ ing | Java & Android Full-stack course | **Korea IT Academy** |
-| 🎓**Education** | 2015. 3 ~ 2022. 2 | Department of Psychology | **Keimyung University** |
 | **External activities** | 2019. 11 | Minister of Science and ICT Award at Contest | **Daegu City** |
+| 🎓**Education** | 2015. 3 ~ 2022. 2 | Department of Psychology | **Keimyung University** |
 
 ### 🌀 Languages
 ![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=JAVA&logoColor=white)
