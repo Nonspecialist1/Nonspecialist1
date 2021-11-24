@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNonspecialist1&count_bg=%2379C83D&title_bg=%23000000&icon=java.svg&icon_color=%23FFEB02&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Hi I'm Saehyun, studying Java full-stack & Android 👋
+## I'm Saehyun, studying Java & Android 👋
 
 <!--
 **Nonspecialist1/Nonspecialist1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
