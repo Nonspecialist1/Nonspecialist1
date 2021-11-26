@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 💡 Current Interest 
 - Algorithm & Computational Thinking
 - Team Project proceed with git
-- Hybrid Application
+- Hybrid Application (React, Flutter)
 - Various ideas (If you want to share any research or project with me, please hit me up with below contacts !)
 
 
