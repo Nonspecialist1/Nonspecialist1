@@ -3,7 +3,7 @@
 ### 👋👋 I'm Saehyun, Java & Android Developer
 
   My major is psychology, but I've been studying computer science💻 since 2021, and I really into SW Developing !<br/> 
-  My most cofident language is Java, I'm keep studying and growing up🌳<br/> 
+  My most cofident language is Java and Kotlin, I'm keep studying and growing up🌳<br/> 
   I want to be All-rounder Developer who make planning and developing SW📱<br/> 
 
 <!--
@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br/> 
 ### 💡 Current Interest 
 - Algorithm & Computational Thinking
 - Team Project proceed with git
-- Hybrid Application (React, Flutter)
+- Java SpringFrameWorks (regacy, boot)
+- Android (kotlin)
 - Various ideas (If you want to share any research or project with me, please hit me up with below contacts !)
 
-
+<br/> 
 ### 💜 Career
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
@@ -35,13 +36,16 @@ Here are some ideas to get you started:
 | 🎓**Education** | 2021. 09 ~ 2021. 12 | Java & Android Full-stack course | **Korea IT Academy** |
 | **External activities** | 2019. 11 | GIF(글로벌이노베이터페스타) 대상(과학기술정보통신부 장관상) | **대구광역시** |
 
+<br/> 
 ### 🌀 Languages
 ![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=JAVA&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)
 
+<br/> 
 ### 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:dkeka6608@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/)
 
+<br/> 
 ### 📊 Stats Card
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonspecialist1)](https://github.com/anuraghazra/github-readme-stats)
 
