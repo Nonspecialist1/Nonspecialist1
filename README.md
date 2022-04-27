@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/> 
+
 ### 💡 Current Interest 
 - Algorithm & Computational Thinking
 - Team Project proceed with git
 - Java SpringFrameWorks (regacy, boot)
 - Android (kotlin)
-- Various ideas (If you want to share any research or project with me, please hit me up with below contacts !) <br/> 
+- Various ideas (If you want to share any research or project with me, please hit me up with below contacts !)
 
 
 ### 💜 Career
