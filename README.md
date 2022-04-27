@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### 💜 Career
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Research activities** | 2021. 09 ~ ing | Java & Android Full-stack course | **Korea IT Academy** |
+| 🎓**Education** | 2022. 01 ~ ing | SSAFY 7기 Mobile Track | **삼성청년소프트웨어아카데미** |
+| 🎓**Education** | 2021. 09 ~ 2021. 12 | Java & Android Full-stack course | **Korea IT Academy** |
 | **External activities** | 2019. 11 | Minister of Science and ICT Award at Contest | **Daegu City** |
-| 🎓**Education** | 2015. 3 ~ 2022. 2 | Department of Psychology | **Keimyung University** |
 
 ### 🌀 Languages
 ![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=JAVA&logoColor=white)
