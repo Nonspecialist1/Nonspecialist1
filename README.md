@@ -2,9 +2,9 @@
 
 ### 👋👋 I'm Saehyun, Java & Android Developer
 
-  My major is psychology, but I've been studying computer science💻 since 2021, and I really into SW Developing !
-  My most cofident language is Java, I'm keep studying and growing up🌳
-  I want to be All-rounder Developer who make planning and developing SW📱
+  My major is psychology, but I've been studying computer science💻 since 2021, and I really into SW Developing !<br/> 
+  My most cofident language is Java, I'm keep studying and growing up🌳<br/> 
+  I want to be All-rounder Developer who make planning and developing SW📱<br/> 
 
 <!--
 **Nonspecialist1/Nonspecialist1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
