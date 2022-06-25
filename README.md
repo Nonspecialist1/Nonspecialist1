@@ -50,5 +50,3 @@ Here are some ideas to get you started:
 ### 📊 Stats Card
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonspecialist1)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skw4223&layout=compact)](https://github.com/skw4223/github-readme-stats)
