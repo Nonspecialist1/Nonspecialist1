@@ -42,4 +42,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:dkeka6608@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/) <br/>
 
 ### 🎰 Algorithm
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkeka1187)](https://solved.ac/profile/dkeka1187)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkeka1187)](https://solved.ac/dkeka1187)
