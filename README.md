@@ -1,5 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNonspecialist1&count_bg=%2379C83D&title_bg=%23000000&icon=java.svg&icon_color=%23FFEB02&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### 📬 Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:dkeka6608@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/) <br/>
+
 ### 👋👋 I'm Saehyun, Java & Android Developer
 
   My major is psychology, but I've been studying computer science💻 since 2021, and I really into SW Developing !<br/> 
@@ -38,8 +41,7 @@
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
 <br/>
  
-### 📬 Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:dkeka6608@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/) <br/>
+
 
 ### 🎰 Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkeka1187)](https://solved.ac/dkeka1187)
