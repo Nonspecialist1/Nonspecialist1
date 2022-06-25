@@ -5,25 +5,11 @@
   My major is psychology, but I've been studying computer science💻 since 2021, and I really into SW Developing !<br/> 
   My most cofident language is Java and Kotlin, I'm keep studying and growing up🌳<br/> 
   I want to be All-rounder Developer who make planning and developing SW📱<br/> 
-
-<!--
-**Nonspecialist1/Nonspecialist1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
 
 ### 💡 Current Interest 
 - Algorithm & Computational Thinking
-- Team Project proceed with git
+- Team Project proceed with git, jira, jenkins, docker
 - Java Spring (regacy, boot)
 - Android (kotlin)
 - Various ideas (If you want to share any research or project with me, please hit me up with below contacts !)
@@ -41,6 +27,15 @@ Here are some ideas to get you started:
 ### 🌈 Core Stack
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> <br/> 
+<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+ 
+
+### 🌸 Experience
+<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+  
 
  
 ### 📬 Contacts
@@ -49,9 +44,3 @@ Here are some ideas to get you started:
 
 ### 🎰 Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkeka1187)](https://solved.ac/profile/dkeka1187)
-
-
-
-### 📊 Stats Card
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonspecialist1)](https://github.com/anuraghazra/github-readme-stats)
-
