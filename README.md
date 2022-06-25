@@ -29,7 +29,7 @@
 
 ### 🌈 Core Stack
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> <br/> 
+<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <br/>
 
@@ -39,6 +39,15 @@
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
+[![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://www.Spring.org/)
+[![SpringBoot Badge](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)](https://www.SpringBoot.org/)
+[![dart Badge](https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.org/)
+[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://Flutter.org/)
+[![sqlite Badge](https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.com/)
+</br>
+[![git Badge](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)](https://git.com/)
+[![gitlab Badge](https://img.shields.io/badge/gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
+[![github Badge](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 <br/>
  
 
