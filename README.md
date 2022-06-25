@@ -38,16 +38,16 @@ Here are some ideas to get you started:
 | **External activities** | 2019. 11. 02 | GIF(Global Innovator Festa) 대상(과학기술정보통신부 장관상) | **대구광역시** |
 
 
-### 🌀 Languages
-![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=JAVA&logoColor=white)
-![ANDROID](https://img.shields.io/badge/ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white) <br/> 
+### 🌈 Core Stack
+<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> <br/> 
 
  
 ### 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:dkeka6608@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/) <br/>
 
 
-### ⚙ Algorithm
+### 🎰 Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkeka1187)](https://solved.ac/profile/dkeka1187)
 
 
