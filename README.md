@@ -6,16 +6,15 @@
 ### 👋👋 I'm Saehyun, Java & Android Developer
 
   My major is psychology, but I've been studying computer science💻 since 2021, and I really into SW Developing !<br/> 
-  My most cofident language is Java and Kotlin, I'm keep studying and growing up🌳<br/> 
+  My most cofident languages are Java and Kotlin, I'm keep studying and growing up🌳<br/> 
   I want to be All-rounder Developer who make planning and developing SW📱<br/> 
   
 
 ### 💡 Current Interest 
-- Algorithm & Computational Thinking
 - Team Project proceed with git, jira, jenkins, docker
 - Java Spring (regacy, boot)
 - Android (kotlin)
-- Various ideas (If you want to share any research or project with me, please hit me up with below contacts !)
+- Algorithm
 
 
 ### 💜 Career
