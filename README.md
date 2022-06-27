@@ -54,3 +54,5 @@
 
 ### 🎰 Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkeka1187)](https://solved.ac/dkeka1187)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeka1187)](https://solved.ac/dkeka1187)
