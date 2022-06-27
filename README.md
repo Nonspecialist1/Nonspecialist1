@@ -24,6 +24,7 @@
 | 🎓**Education** | 2021. 09 ~ 2021. 12 | Java & Android Full-Stack Course | **Korea IT Academy** |
 | **External activities** | 2019. 11. 30 | Start-Up Marketing Project 특별상(KT&G 인재개발원장상) | **KT&G, 대구경북지방 중소벤처기업지원청** |
 | **External activities** | 2019. 11. 02 | GIF(Global Innovator Festa) 대상(과학기술정보통신부 장관상) | **대구광역시** |
+| **External activities** | 2019. 08. 31 | Good Presenter상(본선) | **G1강원민방** |
 
 
 ### 🌈 Core Stack
