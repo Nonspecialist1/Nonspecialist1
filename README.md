@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNonspecialist1&count_bg=%2379C83D&title_bg=%23000000&icon=java.svg&icon_color=%23FFEB02&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 📬 Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:dkeka6608@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/) <a href="(https://steel-kilometer-fce.notion.site/Sim-5bbb8d625dee4134bcc47fb32f0de183)"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:dkeka6608@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/) <a href="https://steel-kilometer-fce.notion.site/Sim-5bbb8d625dee4134bcc47fb32f0de183"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br/>
 
 ### 👋👋 I'm Saehyun, Java & Android Developer
