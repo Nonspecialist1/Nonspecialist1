@@ -51,8 +51,7 @@
 [![git Badge](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)](https://git.com/)
 [![gitlab Badge](https://img.shields.io/badge/gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![github Badge](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![notion Badge](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)](https://github.com)
-<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
+[![notion Badge](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/ko-kr)
 <br/>
  
 
