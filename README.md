@@ -1,17 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNonspecialist1&count_bg=%2379C83D&title_bg=%23000000&icon=java.svg&icon_color=%23FFEB02&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 📬 Contacts
+### 🚓🧏🏻‍♂️ Channel
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:dkeka6608@gmail.com) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/)
 <a href="https://steel-kilometer-fce.notion.site/Sim-5bbb8d625dee4134bcc47fb32f0de183"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br/>
-
-### 👋👋 I'm Saehyun, Android & Backend Developer
-
-  My major is psychology, but I've been studying computer science💻 since 2021, and I really into SW Developing !<br/> 
-  My most cofident languages are Java and Kotlin, I'm keep studying and growing up🌳<br/> 
-  I want to be All-rounder Developer who make planning and developing SW📱<br/> 
-  
 
 ### 💡 Current Interest 
 - Team Project proceed with git, jira, jenkins, docker
@@ -19,16 +12,14 @@
 - Android (kotlin)
 - Algorithm
 
-
 ### 💜 Career
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | 🎓**Education** | 2022. 01 ~ ing | SSAFY 7기 Mobile Track | **삼성청년 소프트웨어아카데미** |
 | 🎓**Education** | 2021. 09 ~ 2021. 12 | Java & Android Full-Stack Course | **Korea IT Academy** |
-| **External activities** | 2019. 11. 30 | Start-Up Marketing Project 특별상(KT&G 인재개발원장상) | **KT&G, 대구경북지방 중소벤처기업지원청** |
-| **External activities** | 2019. 11. 02 | GIF(Global Innovator Festa) 대상(과학기술정보통신부 장관상) | **대구광역시** |
+| **External activities** | 2019. 11. 30 | Start-Up Marketing Project KT&G 인재개발원장상(특별상) | **KT&G, 대구경북지방 중소벤처기업지원청** |
+| **External activities** | 2019. 11. 02 | GIF(Global Innovator Festa) 과학기술정보통신부 장관상(대상) | **대구광역시** |
 | **External activities** | 2019. 08. 31 | 대한민국 프레젠테이션 대회 Good Presenter상(본선) | **G1강원민방** |
-
 
 ### 🌈 Core Stack
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -53,8 +44,6 @@
 [![github Badge](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![notion Badge](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/ko-kr)
 <br/>
- 
-
 
 ### 🎰 Algorithm
 [![Solved.ac
