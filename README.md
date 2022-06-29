@@ -5,8 +5,8 @@
 </p>
 </br>
 
-### 🚓🧏🏻‍♂️ Channel
-📩 Email -> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkeka1187@naver.com)](mailto:dkeka1187@naver.com)
+<h2> 🚓🧏🏻‍♂️ Channel </h2>
+<h3> Email </h3> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkeka1187@naver.com)](mailto:dkeka1187@naver.com)
 <br/>
 💻 Blog -> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/) 
 <br/>
