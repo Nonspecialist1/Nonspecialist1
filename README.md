@@ -6,9 +6,9 @@
 </br>
 
 ## 🧏🏻‍♂️ Channel 
-# 🎅 Email 🎅🏻 dkeka1187@naver.com <br/>
-# 💻 Blog 💻 https://nonspecialist1.tistory.com <br/>
-# 📃 Resume 📃 https://steel-kilometer-fce.notion.site/Sim-5bbb8d625dee4134bcc47fb32f0de183" <br/>
+### 🎅 Email 🎅🏻 dkeka1187@naver.com <br/>
+### 💻 Blog 💻 https://nonspecialist1.tistory.com <br/>
+### 📃 Resume 📃 https://steel-kilometer-fce.notion.site/Sim-5bbb8d625dee4134bcc47fb32f0de183" <br/>
 
 ## 🌈 Core Stack 
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
