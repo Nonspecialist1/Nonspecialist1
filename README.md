@@ -6,11 +6,10 @@
 </br>
 
 <h2> 🧏🏻‍♂️ Channel </h2>
-<h3> 🎅 Email 🎅🏻 🏻 </h3> mailto:dkeka1187@naver.com
+<h3> 🎅 Email 🎅🏻 🏻 </h3> mailto:dkeka1187@naver.com <br/>
+<h3> 💻 Blog 💻 </h3>  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/) 
 <br/>
-💻 Blog -> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/) 
-<br/>
-📃 Resume -> <a href="https://steel-kilometer-fce.notion.site/Sim-5bbb8d625dee4134bcc47fb32f0de183"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
+<h3> 📃 Resume 📃 </h3><a href="https://steel-kilometer-fce.notion.site/Sim-5bbb8d625dee4134bcc47fb32f0de183"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br/>
 
 <h2> 🌈 Core Stack </h2>
