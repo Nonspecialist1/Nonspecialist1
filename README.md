@@ -5,20 +5,18 @@
 </p>
 </br>
 
-<h2> 🧏🏻‍♂️ Channel </h2>
-<h3> 🎅 Email 🎅🏻 🏻 </h3> mailto:dkeka1187@naver.com <br/>
-<h3> 💻 Blog 💻 </h3>  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nonspecialist1.tistory.com/)](https://nonspecialist1.tistory.com/) 
-<br/>
-<h3> 📃 Resume 📃 </h3><a href="https://steel-kilometer-fce.notion.site/Sim-5bbb8d625dee4134bcc47fb32f0de183"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
-<br/>
+## 🧏🏻‍♂️ Channel 
+## 🎅 Email 🎅🏻 mailto:dkeka1187@naver.com <br/>
+## 💻 Blog 💻 https://nonspecialist1.tistory.com <br/>
+## 📃 Resume 📃 https://steel-kilometer-fce.notion.site/Sim-5bbb8d625dee4134bcc47fb32f0de183" <br/>
 
-<h2> 🌈 Core Stack </h2>
+## 🌈 Core Stack 
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <br/>
 
-<h2> 🌸 Experience </h2>
+## 🌸 Experience
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -36,11 +34,11 @@
 [![notion Badge](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/ko-kr)
 <br/>
 
-<h2> 🎰 Algorithm </h2>
+## 🎰 Algorithm 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeka1187)](https://solved.ac/dkeka1187)
 
-<h2> 💜 Career </h2>
+## 💜 Career
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | 🎓**Education** | 2022. 01 ~ ing | SSAFY 7기 Mobile Track | **삼성청년 소프트웨어아카데미** |
