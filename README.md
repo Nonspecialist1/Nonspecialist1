@@ -17,14 +17,14 @@
 <br/>
 
 ## 🌸 Experience
-<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-[![Vuex Badge](https://img.shields.io/badge/vuex-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://www.Spring.org/)
-<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
-[![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://www.Spring.org/)
-[![SpringBoot Badge](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)](https://www.SpringBoot.org/)
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href="https://mysql.com" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+[![Vuex Badge](https://img.shields.io/badge/vuex-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://vuex.vuejs.org/)
+<a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
+[![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
+[![SpringBoot Badge](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![dart Badge](https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.org/)
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://Flutter.org/)
 [![sqlite Badge](https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.com/)
