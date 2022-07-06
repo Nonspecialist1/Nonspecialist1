@@ -11,9 +11,9 @@
 📃 Resume 📃 https://steel-kilometer-fce.notion.site/Sim-5bbb8d625dee4134bcc47fb32f0de183 <br/>
 
 ## 🌈 Core Stack 
-<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
-<a href="https://github.com/dkeka1187" target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://www.kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
+<a href="https://www.android.com" target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <br/>
 
 ## 🌸 Experience
@@ -26,7 +26,7 @@
 [![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
 [![SpringBoot Badge](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![dart Badge](https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.org/)
-[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://Flutter.org/)
+[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://www.flutter.dev/)
 [![sqlite Badge](https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.com/)
 </br>
 [![git Badge](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)](https://git.com/)
