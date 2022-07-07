@@ -18,7 +18,7 @@
 
 ## 🌸 Experience
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 [![Vuex Badge](https://img.shields.io/badge/vuex-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://vuex.vuejs.org/)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)](https://firebase.google.com)
