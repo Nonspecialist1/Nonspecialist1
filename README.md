@@ -43,6 +43,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | 🎓**Education** | 2022. 01 ~ ing | SSAFY 7기 Mobile Track | **삼성청년 소프트웨어아카데미** |
+| **Awards** | 2022. 07. 05 ~ 2022. 08. 19 | Project 최우수상(1등) | **삼성전자** |
 | **Awards** | 2022. 01. 05 ~ 2022. 05. 27 | Mobile Project 우수상(2등) | **삼성전자** |
 | 🎓**Education** | 2021. 09 ~ 2021. 12 | Java & Android Full-Stack Course | **Korea IT Academy** |
 | **External activities** | 2019. 11. 30 | Start-Up Marketing Project KT&G 인재개발원장상(특별상) | **KT&G, 대구경북지방 중소벤처기업지원청** |
